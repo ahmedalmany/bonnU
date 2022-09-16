@@ -1,13 +1,8 @@
 <h1 align="center"><b>𝗦𝗨𝗢𝗥𝗖𝗘 ł𝗔᷂᷂</b></h1>
 
-<p align="center">
+
     <br><b>يدعم تشغيل الموسيقي والفديو داخل المحادثات الصوتية</b><br>
-</p>
-<p align="center">
-    <a href="https://www.python.org/" alt="اللغة المستخدمة"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
-</p>
-## 🧪الحصول علي جلسة البيوجرام:
-[![جلسة بيوجرام]<a href="https://t.me/UUF8Bot"><img src="https://img.shields.io/badge/Dev%Almany-blue.svg?style=for-the-badge&logo=استخراج جلسه"></a> <a href="https://t.me/UUF8Bot"><img src="https://img.shields.io/badge/استخراج جلسه-blue.svg?style=for-the-badge&logo=جلسه بيروجرام"></a> <a href="https://t.me/UUF8Bot"><img src="https://img.shields.io/badge/جلسه بيروجرام -blue.svg?style=for-the-badge&logo=ALMANY"></a>
+
 
 ## 𝗦𝗨𝗢𝗥𝗖𝗘  
 <p align="center">
