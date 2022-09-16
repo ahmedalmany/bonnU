@@ -43,7 +43,7 @@ async def start_(client: Client, message: Message):
 @Client.on_message(command(["مبرمج السورس" ,"الماني" ,"سورس" ,"السورس","احمد" ,"الالماني" ,"الماني"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/390d078bddeb22f38c69b.jpg",
+        photo=f"https://telegra.ph/file/bfcac2085b810ca2f32d2.jpg",
         caption=f""" [⍟ 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙰𝙻𝙼𝙰𝙽𝚈](https://t.me/Channel_Egypt)  """,
         reply_markup=InlineKeyboardMarkup(
          [
@@ -68,7 +68,7 @@ async def start(client: Client, message: Message):
 @Client.on_message(command(["المطور", "/almany", "مطور" ,"مطور البوت"]) & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/390d078bddeb22f38c69b.jpg",
+        photo=f"https://telegra.ph/file/bfcac2085b810ca2f32d2.jpg",
         caption=f""" الاول: هو مطور السورس💎 \n الثاني: مطور البوت💎 \n√""",
         reply_markup=InlineKeyboardMarkup(
          [
