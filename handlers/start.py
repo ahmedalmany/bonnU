@@ -14,7 +14,7 @@ async def start_(client: Client, message: Message):
         caption=f"""**━━━━━━━━━━━━━━━━━━
  مرحبا انا بوت يمكنني تشغيل الاغاني في المكالمات الصوتيه
 اضغط على زر الاوامر لمعرفة طريقة التشغيل 
-قناة ســـورس جـــــــودزيـــــلا [قناة السورس](t.me/o_lU_o1)...
+قناة ســـورس الالـمـانـي [قناة السورس](https://t.me/Channel_Egypt)...
 ━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup(
             [
@@ -24,64 +24,67 @@ async def start_(client: Client, message: Message):
                        ),
                   ],[
                     InlineKeyboardButton(
-                        " ⚙️ ¦ السورس ", url=f"https://t.me/o_lU_o1"
+                        " ⚙️ ¦ السورس ", url=f"https://t.me/DAD_ALMANY1"
                     ),
                     InlineKeyboardButton(
                         " ☣️ ¦ جـروب الدعم ", url=f"https://t.me/{SUPPORT_GROUP}"
                     )
                 ],[
                     InlineKeyboardButton(
-                        " 🖥 ¦ الأوامــر ", url=f"https://telegra.ph/%F0%9D%91%BA%F0%9D%91%BC%F0%9D%91%B6%F0%9D%91%B9%F0%9D%91%AA%F0%9D%91%AC-%F0%9D%91%A9%F0%9D%91%AC%F0%9D%91%B4%F0%9D%91%A9%F0%9D%91%B6-06-190%9D%91%B6-06-19"
+                        " 🖥 ¦ الأوامــر ", url=f"https://0%9D%91%BC%F0%9D%91%B6%F0%9D%91%B9%F0%9D%91%AA%F0%9D%91%AC-%F0%9D%91%A9%F0%9D%91%AC%F0%9D%91%B4%F0%9D%91%A9%F0%9D%91%B6-06-190%9D%91%B6-06-19"
                     ),
                     InlineKeyboardButton(
-                        " 🧨 ¦ مطور السورس ", url="https://t.me/o_lU_o"
+                        " 🧨 ¦ مطور السورس ", url="https://t.me/almany_bash"
                     )]
             ]
        ),
     )
 
-@Client.on_message(command(["مبرمج السورس" ,"افيونه" ,"سورس" ,"السورس" ,"نادر" ,"جودزيلا" ,"افيونا"]) & filters.group & ~filters.edited)
+@Client.on_message(command(["مبرمج السورس" ,"الماني" ,"سورس" ,"السورس","احمد" ,"الالماني" ,"الماني"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/390d078bddeb22f38c69b.jpg",
-        caption=f""" [⍟ 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝚐𝚘𝚍𝚣𝚎𝚕ł𝚊](t.me/AM1_O)  """,
+        caption=f""" [⍟ 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙰𝙻𝙼𝙰𝙽𝚈](https://t.me/Channel_Egypt)  """,
         reply_markup=InlineKeyboardMarkup(
          [
             [
-                InlineKeyboardButton("افـ ـيـ ـونـ ـاا🇪🇬!", url=f"https://t.me/o_lU_o"),
+                InlineKeyboardButton("الالماني!", url=f"https://t.me/almany_basha"),
            ],
             [ 
-                InlineKeyboardButton("نــــــــادر", url=f"https://t.me/Ng_102"),
+                InlineKeyboardButton("احمد", url=f"https://t.me/gh"),
             ],
             [
                 InlineKeyboardButton(
-                    "𝗦𝗨𝗢𝗥𝗖𝗘 𝗚𝗢𝗗𝗭𝗘𝗟ł𝗔᷂᷂🦖", url=f"https://t.me/o_lU_o1"
+                    "𝗦𝗨𝗢𝗥𝗖𝗘 𝘼𝙇𝙈𝘼𝙉𝙔ł𝗔᷂᷂", url=f"https://t.me/Channel_Egypt"
                 ),
             ],
             [
-                InlineKeyboardButton("🐥اضفني الى مجموعتك🐥", url=f"https://t.me/K61TBot?startgroup=true"),
+                InlineKeyboardButton("اضفني الى مجموعتك", url=f"https://t.me/K61TBot?startgroup=true"),
             ]
          ]
      )
   )
 
-@Client.on_message(command(["المطور", "/godzela", "مطور" ,"مطور البوت"]) & filters.group & ~filters.edited)
+@Client.on_message(command(["المطور", "/almany", "مطور" ,"مطور البوت"]) & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/390d078bddeb22f38c69b.jpg",
-        caption=f""" الاول: هو مطور السورس🐥 \n الثاني: مطور البوت🐥 \n√""",
+        caption=f""" الاول: هو مطور السورس💎 \n الثاني: مطور البوت💎 \n√""",
         reply_markup=InlineKeyboardMarkup(
          [
             [
-                InlineKeyboardButton("افـ ـيـ ـونـ ـاا🇪🇬!", url=f"https://t.me/o_lU_o"),
-            ],
+                InlineKeyboardButton("🇩🇪الماني!", url=f"https://t.me/almany_basha"),
+اف
+                                 
+   
+            ],)
             [
                 InlineKeyboardButton(
                         DEV_NAME, url=f"https://t.me/{OWNER_NAME}"
                 ),
             ],
             [
-                InlineKeyboardButton("🐥ضيـف البـوت لمجمـوعتـك🐥", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
+                InlineKeyboardButton("ضيـف البـوت لمجمـوعتـك", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
             ]
          ]
      )
@@ -100,8 +103,8 @@ async def new_chat(c: Client, m: Message):
     for member in m.new_chat_members:
         if member.id == bot_id:
             return await m.reply(
-                "🐥 **شكرا لإضافتي إلى مجموعتك لتشغيل الموسيقي!**\n\n"
-                "🐥 **قم بترقيتي مسؤول في المجموعة لكي أتمكن من العمل بشكل صحيح\nولا تنسى كتابة `/انضم او بيمبو تعاله` لدعوة الحساب المساعد\nقم بكتابة`/تحديث` لتحديث قائمة المشرفين",
+                " *💎*شكرا لإضافتي إلى مجموعتك لتشغيل الموسيقي!**\n\n"
+                "💎 **قم بترقيتي مسؤول في المجموعة لكي أتمكن من العمل بشكل صحيح\nولا تنسى كتابة `/انضم او الماني تعاله` لدعوة الحساب المساعد\nقم بكتابة`/تحديث` لتحديث قائمة المشرفين",
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
@@ -114,7 +117,7 @@ async def new_chat(c: Client, m: Message):
                         ],
                         [
                             InlineKeyboardButton(
-                        "🐥اضـفني لي مـجـمـوعـتـك🐥",
+                        "اضـفني لي مـجـمـوعـتـك",
                         url=f'https://t.me/K61TBot?startgroup=true'),
                         ],
                     ]
