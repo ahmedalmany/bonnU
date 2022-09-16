@@ -1,9 +1,9 @@
 {
-  "name": "سورس جـــــــودزيـــــلا ",
-  "logo": "https://telegra.ph/file/390d078bddeb22f38c69b.jpg",
+  "name": "سورس الالـمـانـي ",
+  "logo": "https://telegra.ph/file/bfcac2085b810ca2f32d2.jpg",
   "description": "A SuperFast VC Player bot to play songs in Telegram Video Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram", "fallen"],
-  "repository": "https://github.com/soursafyona/bonnU",
+  "repository": "https://github.com/ahmedalmany/bonnU",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
