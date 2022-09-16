@@ -55,7 +55,7 @@ async def play(_, message: Message):
 
     await message.delete()
 
-    fallen = await message.reply("يتم التحميل \n\n0% ▓▓▓▓▓▓🐥▓▓▓▓▓▓ 100%")
+    fallen = await message.reply("يتم التحميل \n\n0% ▓▓▓▓▓▓⚡▓▓▓▓▓▓ 100%")
 
     chumtiya = message.from_user.mention
 
@@ -157,7 +157,7 @@ async def play(_, message: Message):
             return await fallen.edit(
                 "عليك كتابة اسم الاغنيه او الرد ع ملف صوتي"
             )
-        await fallen.edit("⚡")
+        await fallen.edit("🇩🇪")
         query = message.text.split(None, 1)[1]
         # print(query)
         try:
@@ -200,12 +200,12 @@ async def play(_, message: Message):
     if int(chat_id) in ACTV_CALLS:
         position = await queues.put(chat_id, file=file_path)
         await message.reply_text(
-               text=f"**ㅤㅤㅤ» 🐥 تم التشغيل ياحبي «**\n💃 **الاسم​:** [{title[:65]}]({url})\n🕕 **عدد دقائق:** `{duration}` الاغنية\n🦦 **مطلوبة بواسطة​:** {chumtiya}\n🕴 **الدردشة​:** `{message.chat.title}`\n🐰 **نوع التشغيل:** موسيقى\n",
+               text=f"**ㅤㅤㅤ» 💎 تم التشغيل ياحبي «**\n💃 **الاسم​:** [{title[:65]}]({url})\n🕕 **عدد دقائق:** `{duration}` الاغنية\n🦦 **مطلوبة بواسطة​:** {chumtiya}\n🕴 **الدردشة​:** `{message.chat.title}`\n🐰 **نوع التشغيل:** موسيقى\n",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(" ☣️ ¦ الدعم ", url=f"https://t.me/{SUPPORT_GROUP}"),
-                    InlineKeyboardButton(" 🧨 ¦ قناة السـورس ", url=f"https://t.me/B_e_m_0")
+                    InlineKeyboardButton(" 🦁 ¦ الدعم ", url=f"https://t.me/{SUPPORT_GROUP}"),
+                    InlineKeyboardButton(" 🍒 ¦ قناة السـورس ", url=f"https://t.me/Channel_Egypt")
                 ],
                 [InlineKeyboardButton(" ⚙️ ¦ اخفاء ", callback_data="close_play")
                 ],
@@ -229,8 +229,8 @@ async def play(_, message: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(" ☣️ ¦ الدعم ", url=f"https://t.me/{SUPPORT_GROUP}"),
-                    InlineKeyboardButton(" 🧨 ¦ قـناة السـورس ", url=f"https://t.me/B_e_m_0")
+                    InlineKeyboardButton(" 🦁 ¦ الدعم ", url=f"https://t.me/{SUPPORT_GROUP}"),
+                    InlineKeyboardButton(" 🍒 ¦ قـناة السـورس ", url=f"https://t.me/Channel_Egypt")
                 ],
                 [InlineKeyboardButton(" ⚙️ ¦ اخفاء  ", callback_data="close_play")
                 ],
