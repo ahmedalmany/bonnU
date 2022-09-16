@@ -20,12 +20,12 @@ async def showid(_, message: Message):
         _id += "<b>ايدي الدردشة </b>: " f"<code>{message.chat.id}</code>\n"
         if message.reply_to_message:
             _id += (
-                "<b>🐥 ايدي بتاعك يا حلو</b>: "
+                "<b>👍 ايدي بتاعك يا حلو</b>: "
                 f"<code>{message.reply_to_message.from_user.id}</code>\n"
             )
             file_info = get_file_id(message.reply_to_message)
         else:
-            _id += "<b>🐥 ايدي بتاعك يا حلو </b>: " f"<code>{message.from_user.id}</code>\n"
+            _id += "<b>👍 ايدي بتاعك يا حلو </b>: " f"<code>{message.from_user.id}</code>\n"
             file_info = get_file_id(message)
         if file_info:
             _id += (
