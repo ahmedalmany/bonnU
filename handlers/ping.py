@@ -55,15 +55,15 @@ async def help(client: Client, message: Message):
         caption="☣️ ᴩɪɴɢɪɴɢ... ☣️",
     )
     await rahul.edit_text(
-        f"""<b> 𝗣 𝗢 𝗡 𝗚 ! 🐥</b>\n  🏓 `{resp} ᴍs`\n\n<b><u>{BOT_NAME} sʏsᴛᴇᴍ sᴛᴀᴛs:</u></b>\n\n• ᴜᴩᴛɪᴍᴇ : {bot_uptime}\n• ᴄᴩᴜ : {cpu}%\n• ᴅɪsᴋ : {disk}%\n• ʀᴀᴍ : {mem}""",
+        f"""<b> 𝗣 𝗢 𝗡 𝗚 ! 💎</b>\n  🏓 `{resp} ᴍs`\n\n<b><u>{BOT_NAME} sʏsᴛᴇᴍ sᴛᴀᴛs:</u></b>\n\n• ᴜᴩᴛɪᴍᴇ : {bot_uptime}\n• ᴄᴩᴜ : {cpu}%\n• ᴅɪsᴋ : {disk}%\n• ʀᴀᴍ : {mem}""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🐰 ¦ جـروب الدعم ", url=f"https://t.me/{SUPPORT_GROUP}"
+                        "🦁 ¦ جـروب الدعم ", url=f"https://t.me/{SUPPORT_GROUP}"
                     ),
                     InlineKeyboardButton(
-                        " 🦦 ¦ قنــاة البـوت ", url="https://t.me/B_e_m_0"
+                        " 🍒 ¦ قنــاة البـوت ", url="https://t.me/Channel_Egypt"
                     )
                 ]
             ]
