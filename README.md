@@ -1,4 +1,4 @@
-<h1 align="center"><b>𝗦𝗨𝗢𝗥𝗖𝗘 𝗚𝗢𝗗𝗭𝗘𝗟ł𝗔᷂᷂🦖</b></h1>
+<h1 align="center"><b>𝗦𝗨𝗢𝗥𝗖𝗘 ł𝗔᷂᷂</b></h1>
 
 <p align="center">
     <br><b>يدعم تشغيل الموسيقي والفديو داخل المحادثات الصوتية</b><br>
@@ -9,9 +9,9 @@
 ## 🧪الحصول علي جلسة البيوجرام:
 [![جلسة بيوجرام]<a href="https://t.me/UUF8Bot"><img src="https://img.shields.io/badge/Dev%20AFYONa-blue.svg?style=for-the-badge&logo=استخراج جلسه"></a> <a href="https://t.me/UUF8Bot"><img src="https://img.shields.io/badge/استخراج جلسه-blue.svg?style=for-the-badge&logo=جلسه بيروجرام"></a> <a href="https://t.me/UUF8Bot"><img src="https://img.shields.io/badge/جلسه بيروجرام -blue.svg?style=for-the-badge&logo=AFYONA"></a>
 
-## 𝗦𝗨𝗢𝗥𝗖𝗘 𝗚𝗢𝗗𝗭𝗘𝗟ł𝗔 
+## 𝗦𝗨𝗢𝗥𝗖𝗘  
 <p align="center">
-  <img src="https://telegra.ph/file/390d078bddeb22f38c69b.jpg">
+  <img src="https://telegra.ph/file/bfcac2085b810ca2f32d2.jpg">
 </p>
 
 ## ✨ المميزات
@@ -53,17 +53,4 @@
 | `/rmd` | مسح جميع الملفات المحمله |
 
 
-[![تشغيل](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/soursafyona/bonnU)
 
-
-
-
-
-
-## قناة التحديثات والدعم¦🐰
-<a href="https://t.me/B_e_m_0"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/UUBU0"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
-
-
-
-مطــــــــور السورس ¦🦦
-<a href="https://t.me/O1BOO"><img src="https://img.shields.io/badge/Dev%20AFYONa-blue.svg?style=for-the-badge&logo=AFYONA"></a> <a href="https://t.me/UUF8U"><img src="https://img.shields.io/badge/يـــــوزرات افيـــونا-blue.svg?style=for-the-badge&logo=AFYONA"></a> <a href="https://t.me/IVNII"><img src="https://img.shields.io/badge/AFUONA2-blue.svg?style=for-the-badge&logo=AFYONA"></a>
